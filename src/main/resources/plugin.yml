@@ -1,0 +1,9 @@
+name: RandomStarterKit
+main: me.daanerang.randomstarterkit.RandomStarterKit
+version: 1.0
+api-version: 1.20
+description: A plugin that gives players a random starter kit when they join the server.
+author: Daanerang
+commands:
+  starterkit:
+    description: Gives the player a starter kit.
